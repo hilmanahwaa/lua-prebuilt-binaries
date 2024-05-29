@@ -1,2 +1,29 @@
 This repository contains prebuilt standalone Lua binaries (interpreter and compiler) for both Windows and Linux, version 5.4.6.
 Compiled with the Tiny C Compiler.
+
+SHA256 sums of the uploaded files (splitted for readability):
+
+/winnt/i686/lua.exe:
+844e a6e4 753e 6466
+aade d8cb f080 09db
+07db 48d0 3fee ce77
+8d7e e1a3 5b39 bcad
+
+/winnt/i686/luac.exe:
+45c8 cb23 6316 ea1a
+fea4 3e7f 8c3f fab0
+9f39 0f29 cc82 46f0
+dc55 7ce8 968e e149
+
+/winnt/x86-64/lua.exe:
+e59a b827 c1f1 2d0f
+a42e 3581 9933 7c58
+22fe 7136 39dc 2929
+dc12 2dca 6c99 c857
+
+/winnt/x86-64/luac.exe
+4913 fb1d 0b45 56ca
+bccd 1e2b 6cbc 1854
+0b60 26d9 2050 27ed
+97e9 d843 0d28 5e1a
+
