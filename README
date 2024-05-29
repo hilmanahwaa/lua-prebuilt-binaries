@@ -27,6 +27,25 @@ bccd 1e2b 6cbc 1854
 0b60 26d9 2050 27ed
 97e9 d843 0d28 5e1a
 
+
+/linux/i686/lua
+73de cae5 e987 6b05
+117f 61a0 259d 329f
+7437 3fc1 0e5b b3d2
+974e 4dd1 ad37 8718
+
+/linux/i686/lua.alt
+7014 75d7 a717 621f
+d354 6af0 8df4 eb60
+8e2f 2b6e fad8 4f75
+cf8a e777 0040 31ad
+
+/linux/i686/luac
+0c2d b965 10b8 fa5e
+824c 82ad ab27 8c3b
+17a0 7dda 593c 3f6f
+5718 152e 6fdf 065f
+
 /linux/x86-64/lua:
 b7ae 9e12 6a3d e163
 f224 60e4 1bd5 4d07
