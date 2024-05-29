@@ -27,3 +27,14 @@ bccd 1e2b 6cbc 1854
 0b60 26d9 2050 27ed
 97e9 d843 0d28 5e1a
 
+/linux/x86-64/lua:
+b7ae 9e12 6a3d e163
+f224 60e4 1bd5 4d07
+91d8 daf2 88c0 f7d2
+8c42 164d 488c 46a0
+
+/linux/x86-64/luac:
+1677 f024 1b93 f678
+aafc c1d8 2c4c 180e
+110a f1a7 624c bafc
+9a30 234f 8c5d 97c0
