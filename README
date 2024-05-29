@@ -1,1 +1,2 @@
 This repository contains prebuilt standalone Lua binaries (interpreter and compiler) for both Windows and Linux, version 5.4.6.
+Compiled with the Tiny C Compiler.
